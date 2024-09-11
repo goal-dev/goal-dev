@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goal-dev&label=Profile%20views&color=0e75b6&style=flat" alt="goal-dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goal-dev" alt="goal-dev" /></a> </p>
-
 - 🔭 I’m currently working on **Software Engineering**
 
 - 👨‍💻 All of my projects are available at [https://carson-gale.netlify.app/](https://carson-gale.netlify.app/)
