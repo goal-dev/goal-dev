@@ -21,8 +21,8 @@
 
 ### ⚙️ Tech Stack
 
-- Front-end Development
-- Back-end Development
+- Web & Mobile Development
+- Web3 Development
 - Full-stack Development
 
 ### 🖥 Skills
