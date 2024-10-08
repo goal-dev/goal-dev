@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 Portfolio Website is at [https://carson-gale.netlify.app/](https://carson-gale.netlify.app/)
 
-- 📫 How to reach me **seniooordev@gmail.com**
+- 📫 How to reach me **andriyslyshyk1997@ukr.net**
 
 - 💬 Ask me about anything :sweat_smile:
 
